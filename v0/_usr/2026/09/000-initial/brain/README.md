@@ -19,6 +19,8 @@ to achieve this in this first version we are assuming that the "brain" folder li
 
 have a short (`ram`) and long (`rom`) term memory system. in `rom` we want to register goals and long term tasks, track and prioritize them in the most efficient and compounding way, and understand what's in progress and what is completed. in `ram` we want to register the micro actions of the current task, giving us the ability to recover from interruptions, when tasks are completed these logs should be archived to `rom` to make it easier to back track. let's design asimple flexible robust folder structure for our memory system.
 
+one thing to note about the memory system, the project knowledge base, and AGENTS.md reference: we want to keep track of the things we work on projects (features, improvements, bugfixing, refactors, etc), and NOT about the results, products, or outputs of the projects themselves.
+
 we also need a simple register we can add to an `AGENTS.md` to reference our brain in a way that makes sense for AI agents to work, and avoid the default `memory.md` or other default memory systems in favor of using our brain framework.
 
 this version of the brain should work best with a single machine, on a single thread, executing 1 tick at a time. with being easy to start a new thread. these immediate goals are the highest priority at the moment.
