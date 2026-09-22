@@ -13,7 +13,7 @@ when implementing, point to where the changes were made for the operator to veri
 
 never run destructive or dangerous actions without an explicit operator instruction for that action.
 
-also apply all these principles when writing code comments, content, plans, reports, documentation.
+also apply all these principles when writing code comments, content, plans, reports, documentation, skills.
 
 when working in a repo, leave a detailed conventional commit message (include scope) for the operator to copy.
 <!-- END:11agi-pragmatic skill -->
