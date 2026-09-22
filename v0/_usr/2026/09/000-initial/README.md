@@ -1,3 +1,4 @@
+# 11brain planning
 this is the initial state / "zero point" / "pre-brain" where i will write as much context as i can for what we want to build in this project
 
 the goal is to build a "second" AI brain to manage my personal projects, and then go beyond it. a system that doesnt forget our goals, can work any time of the day, recover from interruptions, context switch, a just execute on my plans.

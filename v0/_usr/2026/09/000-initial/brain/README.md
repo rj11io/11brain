@@ -1,6 +1,7 @@
+# 11brain framework
 Here are all the guidelines for the first version / iteration of our brain framework. We will start with a design i came up with that can fulfill my immediate work, and continuously improve on the framework over time
 
-# Immediate goals
+## Immediate goals
 - create a simple framework to manage my personal projects
 - simple but flexible folder structure
 - knowledge base for the peronal projects portfolio
@@ -25,8 +26,8 @@ we also need a simple register we can add to an `AGENTS.md` to reference our bra
 
 this version of the brain should work best with a single machine, on a single thread, executing 1 tick at a time. with being easy to start a new thread. these immediate goals are the highest priority at the moment.
 
-# Short term goals
+## Short term goals
 after achieving our immediate goals, we can focus on the next steps, which is mainly about publishing / productizing the brain framework. evolve the brain framework to fit multiple projects, single project, multiple modules inside a project, a mix and match of all these options nested. the purpose of this project is to become more than a personal tool, it's also a proof of work, a portfolio piece, and a tool that other people can use for themselves. there are no hard specifications yet, but we should account for this. low priority.
 
-# Long term goals
+## Long term goals
 after achieving our short term goals, it's time to focus on the long term goals, which are about evolving the brain framework, and having the ability to have multiple machines with multiple threads working on multiple projects in parallel and at the same time. no extra specifications for now but keep this in mind. low priority.
