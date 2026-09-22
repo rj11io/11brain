@@ -1,10 +1,11 @@
 # 11brain framework
-Here are all the guidelines for the first version / iteration of our brain framework. We will start with a design i came up with that can fulfill my immediate work, and continuously improve on the framework over time
+Here are all the guidelines that i want to register for the first version / iteration of our brain framework. We will start with a design i came up with that can fulfill my immediate work, and continuously improve on the framework over time
 
 ## Immediate goals
 - create a simple framework to manage my personal projects
 - simple but flexible folder structure
 - knowledge base for the peronal projects portfolio
+- register and follow the global and project guidelines
 - ability to plan many of tasks across multiple projects, group and prioritize them, track and execute the work
 - execute only 1 tick at a time
 - ability to remember what has been done in the short and long term
