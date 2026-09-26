@@ -8,6 +8,8 @@ this portfolio exists for multiple reasons:
 - show how things work under the hood and behind the scenes
 - organize it in a nice portfolio and get better professional leads and opportunities
 - give other people access to the tools i build for myself
+- create high value opportunitties in business
+- monetise each project the way it makes most sense
 
 ## Portfolio structure
 the brand is `rj11io` and its entry point is `rj11.io` and the project code is `11io`. every other project follows the format `11{code}` and points to a `{code}.rj11.io`. examples:
@@ -20,9 +22,13 @@ the brand is `rj11io` and its entry point is `rj11.io` and the project code is `
 ## Project registry
 for now, this brain should live as a sibling of the projects it's managing, but should only focus on the registered projects and ignore the other siblings in order to not pollute context. ultimately the registered projects should have their paths in a .env file allowing to work in different computers just by updating the .env file (.env files should always be gitignored).
 
-for now the initial registered projects are:
+for now, the initial registered projects are:
+- 11brain
+- 11www
 - 11blog
 - 11ai
-- 11brain
+- 11gg
+- 11pc
+- 11fn
 - 11crypto
-- 
+- 11poker
