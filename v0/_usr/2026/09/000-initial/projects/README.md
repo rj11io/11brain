@@ -23,6 +23,8 @@ the brand is `rj11io` and its entry point is `rj11.io` and the project code is `
 for now, this brain should live as a sibling of the projects it's managing, but should only focus on the registered projects and ignore the other siblings in order to not pollute context. ultimately the registered projects should have their paths in a .env file allowing to work in different computers just by updating the .env file (.env files should always be gitignored).
 
 for now, the initial registered projects are:
+- 11io
+- 11cv
 - 11brain
 - 11www
 - 11blog
